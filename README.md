@@ -8,7 +8,7 @@ Herin is attached some example code for:
 
 3)Online variance (including parallelisation approach)
 
-4)kalman filter in 1D 
+4)kalman filter in 1D (including parallelisation discription)
 
 5)Extended kalman filter example in 1D
 
