@@ -56,7 +56,8 @@ def Kalman(xhat:Double,P:Double,DataStream:DenseVector[Double],Q:Double,R:Double
 }
 
 
-
+//For parallel implementation just consider xhat to be a double on each computing unit, and append each unit output. 
+//For parallel implementation you can tweak the line 45 - 50, and output will no longer will be a Densevector, it will be a Double.
 
 
 
