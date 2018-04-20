@@ -2,7 +2,7 @@
 
 Herin is attached some example code for:
 
-1)AABrier (A prediction with advise algorithm)
+1)AABrier (A prediction with experts advise algorithm)
 
 2)Online covariance (including parallelisation approach)
 
