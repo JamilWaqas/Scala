@@ -1,6 +1,6 @@
 # Scala
 
-Herin is attached some example code for:
+In order to get familiar with the scala syntax I programmed following algorithms:
 
 1)AABrier (A prediction with experts advise algorithm)
 
