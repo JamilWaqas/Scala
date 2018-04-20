@@ -1,6 +1,6 @@
 # Scala
 
-In order to get familiar with the scala syntax I programmed following algorithms:
+In order to get familiar with the scala syntax I programmed the following algorithms:
 
 - AABrier (A prediction with experts advise algorithm)
 
