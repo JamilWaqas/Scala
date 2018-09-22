@@ -42,8 +42,6 @@ User should pass the required input and output values in the function prediction
 1) outcomes    -- outcomes must be between 0 and 1 for this Brier square loss game
 2) Input   -- must be between 0 and 1 for this square loss brier game
 
-Note:- In streaming case, each column is processed sequentially
-
 
 */
 
